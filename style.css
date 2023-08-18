@@ -1,0 +1,17 @@
+.btn{
+    background-color: cadetblue;
+    color: #fff;
+    padding: 15px 40px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    transition: 0.7s;
+    border: 2px solid transparent;
+}
+.btn:hover{
+    background-color: transparent;
+    color: cadetblue;
+    border: 2px solid cadetblue;
+    cursor: pointer;
+    
+}
